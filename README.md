@@ -1,4 +1,4 @@
-# HuntForTheBluemoon
+# Hunt For The Bluemoon
 Student video game project. A simple puzzle game made entirely with python in a single script file.
 
 ## Prereqs (You need to install these before playing the game)
