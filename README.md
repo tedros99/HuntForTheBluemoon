@@ -32,4 +32,4 @@ That's all! Good luck and have fun!
 
 ![](/images/main_menu.png)
 ![](/images/level_select.png)
-![](/images/in_game_screenshot.png)
+![](/images/in_game_example.png)
