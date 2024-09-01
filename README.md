@@ -27,3 +27,6 @@ Once you solve a puzzle, the "Unlock Door" button at the top will enable itself 
 Additionally there is a menubar at the top where you can return to the start menu or level select, if you need to.
 
 That's all! Good luck and have fun!
+
+## In-Game Screenshots
+
