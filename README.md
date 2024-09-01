@@ -30,3 +30,6 @@ That's all! Good luck and have fun!
 
 ## In-Game Screenshots
 
+![](/images/main_menu.png)
+![](/images/level_select.png)
+![](/images/in_game_screenshot.png)
